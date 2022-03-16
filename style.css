@@ -267,6 +267,9 @@ p{
     font-size: 50px;
     color: #000000;    
 }
+#button a:hover {
+    color: rgb(219, 0, 0);
+}
 button{
     text-align: center;
     font-size: 30px;
